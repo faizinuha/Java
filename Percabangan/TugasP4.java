@@ -1,4 +1,4 @@
-package percabangan;
+package Percabangan;
 import java.io.*;
 
 import javax.lang.model.util.ElementScanner6;
