@@ -1,4 +1,4 @@
-package percabangan;
+package Percabangan;
 import java.util.Scanner;
 
 public class TugasP8 {

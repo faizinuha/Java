@@ -1,4 +1,4 @@
-package percabangan;
+package Percabangan;
 import javax.swing.JOptionPane;
 
 public class TugasP6 {
